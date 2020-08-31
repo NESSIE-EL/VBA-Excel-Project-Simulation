@@ -1,0 +1,2 @@
+# VBA-Excel-Project-Simulation
+You have been asked to analyze the company’s data and help make sound business decisions. Specifically, your employer sells warranties on a variety of their products such as phones, microwaves, computers, cameras, etc. If a customer buys a warranty for their purchase and it actually break down in the future, this results in a warranty claim where your company will need to provide reimbursement back to the customer.
