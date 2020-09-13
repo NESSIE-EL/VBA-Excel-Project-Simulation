@@ -2,7 +2,9 @@
 After reading this assignment, download the project workbook.
 
 “Imagine you work as for an electronics company. 
-You have been asked to analyze the company’s data and help make sound business decisions. Specifically, your employer sells warranties on a variety of their products such as phones, microwaves, computers, cameras, etc. 
+
+You have been asked to analyze the company’s data and help make sound business decisions. Specifically, your employer sells warranties on a variety of their
+products such as phones, microwaves, computers, cameras, etc. 
 
 If a customer buys a warranty for their purchase and it actually break down in the future, this results in a warranty claim where your company will need to provide reimbursement back to the customer.”
 
@@ -15,6 +17,7 @@ The goal is to simulate the monthly warranty sales for each of the 20 regions.
 Follow the data format exactly from the tab Region1. 
 
 You want the tabs Region2 to Region20 to follow this data structure. To simulate a claim for a month, use “=RAND()*1000″. 
+
 Reconcile with theSummary tab to make sure your macro worked correctly. Row 14 should match Row 15.
 
 ### Task #2: Simulate Sales 50 Times
